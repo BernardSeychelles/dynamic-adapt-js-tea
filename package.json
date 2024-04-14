@@ -1,6 +1,6 @@
 {
 	"name": "dynamic-adapt-js-tea",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Libs Dynamic Adapt",
 	"main": "dynamic_adapt.js",
 	"scripts": {
